@@ -115,3 +115,32 @@ API:
 - Gemini quota/timeouts gracefully fallback to mock mode in supported flows.
 - UI keeps existing preview flow: Create -> Story Preview -> Character Preview -> Comic Preview.
 - Image requests use the internal `app/lib/image-engine` module for prompt and provider abstraction.
+
+## Screenshots
+
+### Home
+![Home](./public/screenshots/home.png)
+
+### Create Story
+![Create Story](./public/screenshots/create-story.png)
+
+### Story Preview
+![Story Preview](./public/screenshots/story-preview.png)
+
+### Character Preview
+![Character Preview](./public/screenshots/character-preview.png)
+
+### Comic Preview
+![Comic Preview](./public/screenshots/comic-preview.png)
+
+### Pricing
+![Pricing](./public/screenshots/pricing.png)
+
+### Login
+![Login](./public/screenshots/login.png)
+
+### Signup
+![Signup](./public/screenshots/signup.png)
+
+### Account Settings
+![Account Settings](./public/screenshots/account-settings.png)
