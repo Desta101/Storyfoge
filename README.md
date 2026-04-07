@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/screenshots/logo.png" alt="StoryForge Logo" width="260" />
+  <img src="./public/screenshots/logo.png" alt="StoryForge Logo" width="1040" />
 </p>
 
 # StoryForge
