@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/screenshots/logo.png" alt="StoryForge Logo" width="260" />
+</p>
+
 # StoryForge
 
 StoryForge is a Next.js app for generating and editing manga/comic story drafts with AI.
